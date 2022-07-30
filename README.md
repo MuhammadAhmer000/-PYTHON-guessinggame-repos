@@ -1,5 +1,5 @@
 # Guessing Game Python Project
 
-## SKills:
+## Skills Used:
 - Random Module
 - Basic If-else statements
